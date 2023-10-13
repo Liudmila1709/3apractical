@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="./3a.css">
+
+    </head>
+    <body>
+    <div class="container">
+
+
+
+        <div class="page1">
+
+
+
+            <div class="for_pic_elem">
+               
+               
+               
+                <div >
+                    <img class="img1" src="./bbvv.jpg" alt="error">
+                 </div>
+                 
+                 
+                <div class="grid">
+                    <div class="grid_body">
+
+
+                     <div class="header"><span><b>Lessons & Practice</b></span> </div>
+                     <div class="grid_item2"><img class="img2" src="./IMG_9372.jpg" alt="error"> <p class="math"><b>Math</b></p> </div>
+                     <div class="grid_item3"><img class="img3" src="./IMG_9370.jpg" alt="error"> <p class="Physics"><b>Physics</b></p> </div>
+                     <div class="grid_item4"><img class="img4" src="./IMG_9371.jpg" alt="error"> <p class="Medicine"><b>Medicine</b></p> </div>
+                     <div class="grid_item5"><img class="img5" src="./IMG_9373.jpg" alt="error"> <p class="English"><b>English</b></p> </div>
+                     <div class="grid_item6"><img class="img6" src="./IMG_9374.jpg" alt="error"><p class="Technology"><b>Technology</b></p> </div>
+                     <div class="grid_item7"><img class="img7" src="./IMG_9375.jpg" alt="error"> <p class="Engineering"><b>Engineering</b></p> </div>
+
+                    </div>
+                </div>
+                <div><p class="lastp">image from <u>Freepik</u></p></div>
+                </div>
+
+                </div>
+            
+
+
+            
+            
+
+
+        </div>
+
+
+
+
+
+        <div class="page2">
+            <div class="p1"> <p class="para"> <b>Meet some of our partners!</b></p>
+                <p>  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <br> tempor incididunt ut labore et dolore magna aliqua.</p></div>
+            
+            
+            <div class="grid2"> 
+
+                <div class="grid_body2">
+                    <div class="grid_item8"><img class="img8" src="./fg.jpg" alt="ERROR"> <p class="text1page2"><b>Art school Australia</b></p> <p>Excepteur sint occaecat cupidatat non
+                        proident, sunt in culpa qui officia deserunt</p> <p class="formore">MORE</p></div>
+                    <div class="grid_item9"> <img class="img8" src="./22.jpg" alt="ERROR"> <p class="text1page2"><b>English in Argentina</b></p> <p>Excepteur sint occaecat cupidatat non
+                        proident, sunt in culpa qui officia deserunt</p> <p class="formore">MORE</p></div>
+                    <div class="grid_item10"><img class="img8" src="./fgfgg.jpg" alt="ERROR"> <p class="text1page2"><b>Engineering</b></p> <p>Excepteur sint occaecat cupidatat non
+                        proident, sunt in culpa qui officia deserunt</p> <p class="formore">MORE</p> </div>
+                    <div class="paragh4" ><p>image from <u>Freepik</u></p>
+                    </div>
+                </div>
+             
+            </div>
+
+            
+
+
+        </div>
+
+
+
+
+
+
+        <div class="page3">
+            <div class="p3"> <p class="para3"> <b>Integrity. Uniqueness. Enjoyment. <br>
+                Ever Forward.
+                </b></p>
+                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.</p></div>
+
+
+                <div  class="for_pic_elem3"> 
+                     
+                 <div class="grid3">
+                    <div class="yellowblock"></div>
+                  <div class="grid_body3">
+                    
+                    <div class="grid_item11"><p class="text3pB"> <b>WHO WE ARE</b></p> <p class="text3ps">Duis aute irure dolor in reprehenderit in <br> voluptate velit esse cillum dolore eu fugiat <br>
+                        nulla pariatur. Excepteur sint occaecat <br>
+                        cupidatat</p>
+                        <p><img class="ppng1" src="./pngwing.com.png" alt="error"></p>
+                    </div>
+                    <div class="grid_item12"> <p class="text3pB"> <b>WHAT WE DO</b></p> <p class="text3ps">Duis aute irure dolor in reprehenderit in <br> voluptate velit esse cillum dolore eu fugiat <br>
+                        nulla pariatur. Excepteur sint occaecat <br>
+                        cupidatat</p>
+                        <p><img class="ppng1" src="./pngwing.com.png" alt="error"></p>      </div>
+                    <div class="grid_item13"><p class="text3pB"> <b>SUMMER PROGRAMS</b></p> <p class="text3ps">Duis aute irure dolor in reprehenderit in <br> voluptate velit esse cillum dolore eu fugiat <br>
+                        nulla pariatur. Excepteur sint occaecat <br>
+                        cupidatat</p>
+                        <p><img class="ppng1" src="./pngwing.com.png" alt="error"></p></div>
+                    
+                    <div class="grid_item14"><p class="text3pB"> <b>RESOURSES</b></p> <p class="text3ps">Duis aute irure dolor in reprehenderit in <br> voluptate velit esse cillum dolore eu fugiat <br>
+                        nulla pariatur. Excepteur sint occaecat <br>
+                        cupidatat</p>
+                        <p><img class="ppng1" src="./pngwing.com.png" alt="error"></p></div>
+                    <div class="grid_item15"><p class="text3pB"> <b>WEBINARS</b></p> <p class="text3ps">Duis aute irure dolor in reprehenderit in <br> voluptate velit esse cillum dolore eu fugiat <br>
+                        nulla pariatur. Excepteur sint occaecat <br>
+                        cupidatat</p>
+                        <p><img class="ppng1" src="./pngwing.com.png" alt="error"></p></div>
+                    <div class="grid_item16"><p class="text3pB"> <b>OUR TEAM</b></p> <p class="text3ps">Duis aute irure dolor in reprehenderit in <br> voluptate velit esse cillum dolore eu fugiat <br>
+                        nulla pariatur. Excepteur sint occaecat <br>
+                        cupidatat</p>
+                        <p><img class="ppng1" src="./pngwing.com.png" alt="error"></p></div>
+                 </div> 
+                 </div>
+
+
+                </div>
+
+        </div>
+
+
+
+
+
+
+        <div class="page4">
+            <div class="container"> 
+                <table>
+                    <tr>
+                        <td>
+                <div class="grid4"> 
+                    <div class="divin4-1"><p class="big78"><b>16k</b></p> <span>happy customers</span> </div>
+                    <div class="divin4-2"><p class="big78"><b>19%</b></p><span>Sample Headline</span> </div>
+                    <div class="divin4-3"><p class="big78"><b>32</b></p><span>our courses</span></div>
+                    <div class="divin4-4"><p class="big78"><b>394</b></p><span>learners worldwide</span></div>
+                    
+
+                </div>
+            </td>
+            <td>
+                <div class="fortext88"> </div>
+            </td>
+            </tr>
+            </table>
+            </div>
+
+        </div>
+    </div>
+    </body>
+</html>
